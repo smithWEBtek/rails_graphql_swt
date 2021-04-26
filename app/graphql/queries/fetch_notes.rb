@@ -1,6 +1,5 @@
 module Queries
   class FetchNotes < Queries::BaseQuery
-
     type [Types::NoteType], null: false
 
     def resolve
