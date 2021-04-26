@@ -1,5 +1,8 @@
 # README
 
+## this is based on the [digital ocean tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-graphql-api)
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
